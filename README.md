@@ -1,3 +1,3 @@
-# App-Meteorologica
+# App-Meteorológica
 
-La segunda aplicación de Node, será una aplicación web meteorologíca.
+La segunda aplicación en la que se trabajara con NodeJS, será una aplicación web meteorológica.
