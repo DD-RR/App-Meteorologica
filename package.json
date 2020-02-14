@@ -1,0 +1,23 @@
+{
+  "name": "App-Meteorologica",
+  "version": "1.0.0",
+  "description": "La segunda aplicación en la que se trabajara con NodeJS, será una aplicación web meteorológica.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DD-RR/App-Meteorologica.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DD-RR/App-Meteorologica/issues"
+  },
+  "homepage": "https://github.com/DD-RR/App-Meteorologica#readme",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
